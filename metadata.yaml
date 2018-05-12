@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: This volume covers A.D. 1558-1608.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19893#The-Great-Events-by-Famous-Historians-Volume-10
 gutenberg_issued: '2006-11-21'
 gutenberg_type: Text
 identifiers:
